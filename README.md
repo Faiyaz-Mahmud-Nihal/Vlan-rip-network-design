@@ -22,7 +22,7 @@ The network includes VLAN segmentation, multiple LANs, and WAN links with dynami
 
 ## Files
 - `VLAN_RIP_Network.pkt` – Packet Tracer simulation file
-- `topology.png` – Network topology diagram
+- `VLAN_RIP_Network.png` – Network topology diagram
 
 ## Learning Outcome
 This project provided hands-on experience in routing protocols, subnet planning, and enterprise network design.
